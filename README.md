@@ -21,7 +21,7 @@ The system is deployed as an interactive **Streamlit web app**, allowing users t
 - `movies.csv` – Dataset used for recommendations  
 - `README.md` – This project description file  
 - `Movie_Recommendation_Report.pdf` –  report
-  `Movie_Recommendation_System.ipynb`- colab notebook
+- `Movie_Recommendation_System.ipynb`- colab notebook
 - `screenshots/` – App output examples
 
 ---
